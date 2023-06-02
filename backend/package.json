@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My ecommerce app",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "nodemon server.js"
   },
